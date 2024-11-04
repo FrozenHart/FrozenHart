@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Filipe Esteves and I'm a Student from FEUP Portugal</p>
+<h1 align="left">Hey my name is Filipe Esteves</h1>
 
 ###
 
