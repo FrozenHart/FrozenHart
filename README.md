@@ -49,9 +49,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrozenHart&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&token=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" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrozenHart&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <!-- GitHub Streak Stats (Left) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrozenHart&theme=dracula" width="400" height="180" alt="GitHub Streak" />
+  
+  <!-- GitHub Stats: Top Languages (Right) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrozenHart&layout=compact&langs_count=8&theme=dracula&hide_border=false" width="400" height="170" alt="Languages Graph" />
 </div>
+
+
 
 
 
