@@ -6,7 +6,14 @@
 
 ###
 
-<p align="left">📚 Studying Informatics and Computer Engineering (LEIC) at FEUP, Porto since 2022.</p>
+<p align="left">📚 First-year Master’s student in Electronics and Computer
+Engineering with specialization in Automation at FEUP. Holder of a
+Bachelor’s degree in Computer Engineering with solid foundation in
+software development, algorithms, and systems. Professional
+experience through curricular internship at INESC TEC developing
+data capture systems. Passionate about automation, robotics, and
+embedded systems. Strong programming skills with expertise in
+multiple languages and frameworks</p>
 
 ###
 
