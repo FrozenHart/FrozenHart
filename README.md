@@ -8,7 +8,7 @@
 
 <p align="left">📚 First-year Master’s student in Electronics and Computer
 Engineering with specialization in Automation at FEUP. Holder of a
-Bachelor’s degree in Computer Engineering with solid foundation in
+Bachelor’s degree in Informatic and Computer Engineering with solid foundation in
 software development, algorithms, and systems. Professional
 experience through curricular internship at INESC TEC developing
 data capture systems. Passionate about automation, robotics, and
