@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 First-year Master’s student in Electronics and Computer
+<p align="left">📚 Second-year Master’s student in Electronics and Computer
 Engineering with specialization in Automation at FEUP. Holder of a
 Bachelor’s degree in Informatic and Computer Engineering with solid foundation in
 software development, algorithms, and systems. Professional
