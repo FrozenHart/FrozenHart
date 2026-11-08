@@ -58,9 +58,6 @@ multiple languages and frameworks</p>
 <div align="center">
   <!-- GitHub Streak Stats (Left) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrozenHart&theme=dracula" width="400" height="180" alt="GitHub Streak" />
-  
-  <!-- GitHub Stats: Top Languages (Right) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrozenHart&layout=compact&langs_count=8&theme=dracula&hide_border=false" width="400" height="170" alt="Languages Graph" />
 </div>
 
 
