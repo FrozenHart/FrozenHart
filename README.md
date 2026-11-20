@@ -39,15 +39,12 @@ Second-year Master's student at **FEUP** specializing in **Automation and Roboti
 ### 🛠️ Featured Projects & Research
 
 #### 🤖 Automation, Robotics & Embedded Systems
-- **[Industrial Automation & Supervisory Control](https://github.com/IIND)** *(Informática Industrial - FEUP)*  
+- **[Industrial Automation & Supervisory Control](https://github.com/FrozenHart/IIND)** *(Informática Industrial - FEUP)*  
   End-to-end industrial automation spanning shop-floor fieldbuses and ESP32 edge units, deterministic PLC control (IEC 61131-3 / IEC 61499), SCADA supervision, and MES/ERP data pipelines.  
   **Tech:** `IEC 61131-3 (ST, Ladder)` `IEC 61499` `CodeSYS` `Eclipse 4diac` `SCADA & MES` `CAN Bus` `Modbus` `ESP32`
 - **Synchronous Data Capture System** *(INESC TEC / Bachelor Thesis - Grade: 18/20)*  
   Real-time acquisition system synchronizing Channel State Information (CSI) Wi-Fi streams with RGB-D depth camera frames.  
   **Tech:** `C++` `Sensor Fusion` `Real-Time Data Capture` `CSI Wi-Fi` `RGB-D Sensors`
-- **[IR_FEUP](https://github.com/FrozenHart/IR_FEUP)** *(Robotics Coursework - Grade: 17/20)*  
-  Robotic kinematics simulator covering forward/inverse kinematics, path planning, and spatial transforms.  
-  **Tech:** `C++` `Robotics Kinematics` `Algorithms`
 - **[LCOM (Laboratório de Computadores)](https://github.com/FrozenHart/LCOM_2025)** ([2025](https://github.com/FrozenHart/LCOM_2025) / [2024](https://github.com/FrozenHart/LCOM_2024))  
   Bare-metal systems programming in C on Minix OS: custom drivers for PC timer, keyboard, mouse, RTC, and VRAM graphics.  
   **Tech:** `C` `Minix OS` `x86 Interrupt Handlers` `Device Drivers`
