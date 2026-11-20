@@ -26,7 +26,7 @@ Second-year Master's student at **FEUP** specializing in **Automation and Roboti
 
 ### 🚀 Active & Ongoing Projects
 
-- 🌲 **[SMARTCUT Digital Twin](https://github.com/FrozenHart)** *(Master's Thesis - FEUP DIGI2 Lab, Vicort, IPCB, UTAD)*  
+- 🌲 **SMARTCUT Digital Twin** *(Master's Thesis - FEUP DIGI2 Lab, Vicort, IPCB, UTAD)*  
   Cyber-physical Digital Twin for forestry harvesting machinery. Ingests real-time operator and sensor data over CAN bus and MQTT, runs IEC 61499 distributed function blocks, and applies ML (Dynamic Time Warping & Time-Series K-Means) for cycle classification and predictive anomaly detection.  
   **Tech:** `IEC 61499` `Eclipse 4diac` `DINASORE` `CAN Bus (250 kbps)` `MQTT` `PostgreSQL` `Python (PyQt5, DTW, Scikit-learn)`
 
