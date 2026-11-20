@@ -42,7 +42,7 @@ Second-year Master's student at **FEUP** specializing in **Automation and Roboti
 - **[Industrial Automation & Supervisory Control](https://github.com/FrozenHart/IIND)** *(Informática Industrial - FEUP)*  
   End-to-end industrial automation spanning shop-floor fieldbuses and ESP32 edge units, deterministic PLC control (IEC 61131-3 / IEC 61499), SCADA supervision, and MES/ERP data pipelines.  
   **Tech:** `IEC 61131-3 (ST, Ladder)` `IEC 61499` `CodeSYS` `Eclipse 4diac` `SCADA & MES` `CAN Bus` `Modbus` `ESP32`
-- **Synchronous Data Capture System** *(INESC TEC / Bachelor Thesis - Grade: 18/20)*  
+- **Synchronous Data Capture System** *(INESC TEC / Bachelor Thesis)*  
   Real-time acquisition system synchronizing Channel State Information (CSI) Wi-Fi streams with RGB-D depth camera frames.  
   **Tech:** `C++` `Sensor Fusion` `Real-Time Data Capture` `CSI Wi-Fi` `RGB-D Sensors`
 - **[LCOM (Laboratório de Computadores)](https://github.com/FrozenHart/LCOM_2025)** ([2025](https://github.com/FrozenHart/LCOM_2025) / [2024](https://github.com/FrozenHart/LCOM_2024))  
