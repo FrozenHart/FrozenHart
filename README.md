@@ -20,7 +20,7 @@ Second-year Master's student at **FEUP** specializing in **Automation and Roboti
 
 - 🔭 **Current Focus:** Industrial Digital Twins, Cyber-Physical Systems (CPS), and Distributed Configuration Orchestration.
 - ⚙️ **Core Strengths:** Industrial Automation (PLC/ESP/MES/SCADA), Low-Level C/C++, Real-Time Data Acquisition, and Kubernetes Infrastructure.
-- 🏛️ **Affiliations:** FEUP DIGI2 Lab (Research), INESC TEC (Former Intern), NIAEFEUP (Server Infrastructure Team Lead), NCGM (Former Website Team Lead).
+- 🏛️ **Affiliations:** FEUP DIGI2 Lab (Research), INESC TEC (Former Intern), NIFEUP (Server Infrastructure Team Lead), NCGM (Former Website Team Lead).
 
 ---
 
@@ -50,7 +50,7 @@ Second-year Master's student at **FEUP** specializing in **Automation and Roboti
   **Tech:** `C` `Minix OS` `x86 Interrupt Handlers` `Device Drivers`
 
 #### ☁️ Cloud Infrastructure & DevOps
-- **[Niployments - Production K8s Cluster](https://github.com/FrozenHart)** *(Infrastructure Team Lead @ NIAEFEUP)*  
+- **[Niployments - Production K8s Cluster](https://github.com/FrozenHart)** *(Infrastructure Team Lead - NIFEUP)*  
   Bare-metal Kubernetes production cluster automated with IaC, custom networking, distributed storage, automated ingress with Cloudflare DNS, and full observability.  
   **Tech:** `Kubernetes (RKE2)` `Ansible` `Packer` `VyOS` `Cilium CNI` `Longhorn` `Traefik` `Cloudflare DNS` `Harbor` `Prometheus` `Grafana` `Loki`
 - **[SINF Web Platform & Gamification](https://github.com/FrozenHart/SINF_2026)** *(Semana de Informática)*  
