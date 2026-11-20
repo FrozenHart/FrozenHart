@@ -2,7 +2,7 @@
 
 # Filipe Esteves
 
-**Robotics & Automation Engineer | Systems & Infrastructure Specialist**  
+**Robotics & Automation Engineer | Systems & Dev Ops **  
 *Master’s Student in Electronics & Computer Engineering (Automation & Robotics) @ FEUP*  
 *B.Sc. in Informatics & Computer Engineering @ FEUP*
 
